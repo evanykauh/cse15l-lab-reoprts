@@ -6,4 +6,4 @@ Hello, World! Evan Kauh husky
 
 [Link](https://www.youtube.com/watch?v=dQw4w9WgXcQ) (NOT a rick roll)
 
-![Image](https://www.indiewire.com/wp-content/uploads/2017/11/screen-shot-2017-11-22-at-1-22-32-pm.png)
+![Capture](https://user-images.githubusercontent.com/94486303/149253794-84634fee-63a2-44e6-9856-139c298c7f1e.PNG)
