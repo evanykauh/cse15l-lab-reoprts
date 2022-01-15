@@ -72,7 +72,7 @@ What is an SSH Key? SSH keys use a program called ssh-keygen to create a pair of
 
 To set this up, type ssh-keygen into your terminal. This will generate the key pair and prompt you to enter a file in which to save the key. Then, after entering a passphrase of your choice, your keys and fingerprint should be saved. The process should be like the image below: 
 
-![ssh key image](https://user-images.githubusercontent.com/94486303/149601417-1e84ab1c-ef45-44ee-ab3c-a146e1175574.png)
+![ssh key image](https://user-images.githubusercontent.com/94486303/149603955-8c1036f7-6a10-463e-b66a-d9e6c31dba0c.PNG)
 
 Now all that's left is to copy the public key to the .ssh directory of your user account on the server.
 
