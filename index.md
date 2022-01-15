@@ -17,10 +17,10 @@ First, if you’re on Windows: install a program called OpenSSH
 - This is a program that can connect your computer to other computers that have this kind of account
 
 Second, find you're course specific account. Since I'm in CSE 15L, I will use the link below
-- [account link](https://sdacs.ucsd.edu/~icc/index.php)
+- [Account link](https://sdacs.ucsd.edu/~icc/index.php)
 
 Finally, use the instructions in the link below to connect to the remote computer using VSCode’s remote option.
-- [link](https://code.visualstudio.com/docs/remote/ssh#_connect-to-a-remote-host)
+- [vs code instructions link](https://code.visualstudio.com/docs/remote/ssh#_connect-to-a-remote-host)
 
 Now open up a new terminal in VS Code. Your command should say "$ ssh cs15lwi22zz@ieng6.ucsd.edu" but with the "zz" replaced by the letters in your course-specific account. And since this is the first time you’ve connected to this server, you will probably get a message like this:
 
@@ -72,7 +72,8 @@ What is an SSH Key? SSH keys use a program called ssh-keygen to create a pair of
 
 To set this up, type ssh-keygen into your terminal. This will generate the key pair and prompt you to enter a file in which to save the key. Then, after entering a passphrase of your choice, your keys and fingerprint should be saved. The process should be like the image below: 
 
-![ssh key image](https://user-images.githubusercontent.com/94486303/149603955-8c1036f7-6a10-463e-b66a-d9e6c31dba0c.PNG)
+![ssh jey image1](https://user-images.githubusercontent.com/94486303/149603998-7b1a8bef-2bd5-41e4-b563-0b1cef7458ca.PNG)
+![ssh key image2](https://user-images.githubusercontent.com/94486303/149603955-8c1036f7-6a10-463e-b66a-d9e6c31dba0c.PNG)
 
 Now all that's left is to copy the public key to the .ssh directory of your user account on the server.
 
