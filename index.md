@@ -92,7 +92,7 @@ $ scp /Users/joe/.ssh/id_rsa.pub cs15lwi22@ieng6.ucsd.edu:~/.ssh/authorized_keys
 
 To make remote running even more pleasant, I used command lines within quotation marks to run everything on the server in the same ssh session:
 
-
+![optimize ssh](https://user-images.githubusercontent.com/94486303/149602430-a3cc9f69-3697-46d9-b34b-6b3a8439ab1c.png)
 
 
 
