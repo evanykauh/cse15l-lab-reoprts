@@ -8,7 +8,7 @@
 
 ### Failure-inducing input: 
 
-Text file that broke code: 
+Text file that broke code: [text-file-3](https://evanykauh.github.io/markdown-parse/test-file-3)
 
 ![cmdLine1](https://user-images.githubusercontent.com/94486303/151503435-ffe490ed-49b0-45d2-b923-a1459c6809e6.png)
 
