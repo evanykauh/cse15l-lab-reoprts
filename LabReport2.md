@@ -15,7 +15,7 @@ Text file that broke code: [text-file-3](https://evanykauh.github.io/markdown-pa
 
 ![cmdLine1](https://user-images.githubusercontent.com/94486303/151503435-ffe490ed-49b0-45d2-b923-a1459c6809e6.png)
 
-In the command line above, I call the MarkdownParse class on test-file-3.md, which reveals a bug in my code: if there is a close parenthases ')' within the link, the link will be cut short at that index in the output (as seen in the third link). The symptom in this scenario is the incorrect output that is produced as a result of the failure-inducing input. The third link in the array is supposed to be **https://docs.microsoft.com/en-us/previous-versions/windows/internet-explorer/ie-developer/platform-apis/aa752574(v=vs.85)?redirectedfrom=MSDN** and not **https://docs.microsoft.com/en-us/previous-versions/windows/internet-explorer/ie-developer/platform-apis/aa752574(v=vs.85**.  
+In the command line above, I call the MarkdownParse class on test-file-3.md, which reveals a bug in my code: if there is a close parenthases ')' within the link, the link will be cut short at that index in the output (as seen in the third link). The symptom in this scenario is the incorrect output that is produced as a result of the failure-inducing input. The third link in the array is supposed to be *https://docs.microsoft.com/en-us/previous-versions/windows/internet-explorer/ie-developer/platform-apis/aa752574(v=vs.85)?redirectedfrom=MSDN* and not *https://docs.microsoft.com/en-us/previous-versions/windows/internet-explorer/ie-developer/platform-apis/aa752574(v=vs.85*.  
 
 - 2-3 sentences here
 
