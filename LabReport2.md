@@ -2,6 +2,20 @@
 ### Evan Kauh
 ### January 26, 2022
 
+## Code Change #1
+
+ ![commit1](https://user-images.githubusercontent.com/94486303/151503604-d2ae7c26-fc32-4c0a-9263-592322d4b058.png)
+
+### Failure-inducing input: 
+
+Text file that broke code: 
+
+![cmdLine1](https://user-images.githubusercontent.com/94486303/151503435-ffe490ed-49b0-45d2-b923-a1459c6809e6.png)
+
+### Symptom (command line)
+
+- 2-3 sentences here
+
 // TODO: Pick three code changes that your group worked on in labs 3 and 4 in order to fix a bug; these should be stored as commits on someone’s repository. Fork the repository so you have your own copy with all the work your group did if you haven’t already.
 
 //For each of the three code changes:
