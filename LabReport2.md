@@ -8,7 +8,7 @@
 
 ### Failure-inducing input: 
 
-Text file that broke code: [text-file-2.md](https://evanykauh.github.io/markdown-parse/test-file-3)
+Text file that broke code: [text-file-3.md](https://evanykauh.github.io/markdown-parse/test-file-3)
 
 
 ### Symptom (command line)
@@ -21,7 +21,7 @@ I fixed this by implementing a while loop that checks to make sure that the save
 
 ## Code Change #2
 
-![commit2](https://user-images.githubusercontent.com/94486303/151637082-0ba2720d-d317-4344-8049-b39ddb7278ff.png)
+![commit2](https://user-images.githubusercontent.com/94486303/151638961-f3e55c1e-dc15-43a7-b108-5532c8df6921.png)
 
 ### Failure-inducing input: 
 
