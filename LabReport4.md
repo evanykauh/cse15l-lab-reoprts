@@ -23,7 +23,7 @@ Snippet 3: [https://ucsd-cse15l-w22.github.io/, example.com]
 ![test imgs](https://user-images.githubusercontent.com/94486303/155830143-6d89eff5-031c-4338-9dbc-840a7ff1de52.png)
 
 ## My implementation 
-### None of my tests passed **:** (
+### None of my tests passed 
 
 ### Test of Snippet 1:
 ![test result 1](https://user-images.githubusercontent.com/94486303/155830236-6d3773d7-fd07-49a8-bc52-7b4287dda125.png)
