@@ -23,7 +23,7 @@ Snippet 3: [https://ucsd-cse15l-w22.github.io/, example.com]
 ![test imgs](https://user-images.githubusercontent.com/94486303/155830143-6d89eff5-031c-4338-9dbc-840a7ff1de52.png)
 
 ## My implementation 
-### None of my tests passed :(
+### None of my tests passed **:** (
 
 ### Test of Snippet 1:
 ![test result 1](https://user-images.githubusercontent.com/94486303/155830236-6d3773d7-fd07-49a8-bc52-7b4287dda125.png)
@@ -56,7 +56,7 @@ Yes. Having two ` marks inside and outside the brackets is supposed to break the
 ### Do you think there is a small (<10 lines) code change that will make your program work for snippet 2 and all related cases that nest parentheses, brackets, and escaped brackets? If yes, describe the code change. If not, describe why it would be a more involved change.
 
 
-Yes, I do think that there is a simple change that could be made. To fix my progam to work for snippet 2, I would edit the statement that sets the closeParen index so that it ensures that it is the actual end of the link. For example, it would check if there is a next open bracket right after (indicating that it is the end of the link and the start of the next one) or if there exists no other close parenthases in the file all together, before setting the closeParen index. 
+Maybe, because even though there are multiple fixes to be made, they're relatively straight-forward. First, I would edit the statement that sets the closeParen index so that it ensures that it is the actual end of the link. For example, it would check if there is a next open bracket right after (indicating that it is the end of the link and the start of the next one) or if there exists no other close parenthases in the file all together, before setting the closeParen index. This helps fix the a.com(()) link. Then I would fix the example.com link by ensuring that theres an openParen right after the close bracket to ensure that we begin to read the link at the correct start. 
 
 ### Do you think there is a small (<10 lines) code change that will make your program work for snippet 3 and all related cases that have newlines in brackets and parentheses? If yes, describe the code change. If not, describe why it would be a more involved change.
 
