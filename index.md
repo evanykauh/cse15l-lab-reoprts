@@ -10,3 +10,5 @@
 3. [Lab Report 3](https://evanykauh.github.io/cse15l-lab-reoprts/lab-report-3-week-6)
 
 4. [Lab Report 4](https://evanykauh.github.io/cse15l-lab-reoprts/LabReport4)
+
+5. [Lab Report 5](https://evanykauh.github.io/cse15l-lab-reoprts/LabReport5)
