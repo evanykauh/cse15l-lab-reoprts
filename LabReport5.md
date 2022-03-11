@@ -6,7 +6,7 @@
 ### How I found the tests with different results:
 I ran `diff`, comparing my results.txt file with the results.txt file from the markdown-parse provided in week 9. 
 
-``diff my-markdown-parse/results.txt markdown-parse/results.txt``
+command run: ``diff my-markdown-parse/results.txt markdown-parse/results.txt``
 
 ## BUG #1
 ![bug 1 img](https://user-images.githubusercontent.com/94486303/157859826-6c3a66c1-cba3-437a-8f77-66cb241f84c7.png)
